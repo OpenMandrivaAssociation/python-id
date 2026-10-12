@@ -2,7 +2,7 @@
 
 Name:		python-id
 Version:	1.6.1
-Release:	1
+Release:	2
 Summary:	A tool for generating OIDC identities
 License:	Apache-2.0
 Group:		Development/Python
